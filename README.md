@@ -8,11 +8,12 @@
 @@ text in purple (and bold)@@
 ```
 
-> ### God may not play dice with the universe, but something strange is going on with the prime numbers - Carl Pomerance
+> ### God may not play dice with the universe, but something strange is going on with the prime numbers - Carl Pomerance/ Paul Erdos
 
 ## Intro
 my name is binyameen mohamedy, a student at UJ Academy in grade 11. 
 
+My project is solving a mathematics problem related to functions that generate prime numbers.
 My project is basically solving a math problem related to functions that generate prime numbers. the function is called Rowland's function, and the problem was proving that the function always produces prime numbers or 1 as output. The way this function was discovered was through a summer school by **Stephen Wolfram**. The summer school aimed to analyze complex behaviours arising from simple rules or definitions. One of the functions discovered was Rowlands function. 
 
 ## what did i do
