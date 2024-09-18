@@ -20,10 +20,12 @@ My project is basically solving a math problem related to functions that generat
 Now, Rowlands function, denoted as b(n), is a recursive function meaning its value at any point depends on the previous term. examples of recursive functions would be the following, f(n)= f(n-1)<sup>2</sup> ->  for n =1,2,3,4,5 you get 2,4,8,16,32,64. the function multiplies the previous term by 2. Note how u need to start with some number f(1) first, in the example f(1) = 2 gave u the sequence of powers of 2. but if f(1) = 5, the sequence would become, 5, 10,20,40,80,160
 
 ## How did i do it
+i analysed the problem numerically and graphically, and was able to formulate certain hypothesis which helped me understand the function itself more. From there i had a key new idea on reformulating the problem as smt else.s
 
 ## significance?
 
 ### mathematics
+This solves a mathematical problem unsolved for over 2 decades. It furthers the field and the current understanding mathematicians have on this topic.  
 
 ### Foundations of A.I
 
@@ -35,3 +37,4 @@ it will start off with a word, like apples, and generate the next word based off
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*vv8k1EwchSKpOVIJ.png" width="500px" align="center">
 
 ### South african mathematics
+This project furthers South African mathematics, and attempts to also break stereotypes on Africans and science.
