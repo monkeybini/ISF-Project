@@ -32,6 +32,6 @@ Rowlands function, the focus of my project is a recursive function. Recursive fu
 recursive functions are powerful tools in this world. A.I tools like chatgpt and other text generetors are a form of extremely complicated recursive functions. The way they work is by first starting with some word, then it looks at the previous text generated, and outputting a word based off it. So if you asked the A.I to generate a sentence on apples it will do so like this.
 it will start off with a word, like apples, and generate the next word based off it, like "are". so the sentence would be "apples are", it will now look at that entire sentence and generate the next word, like "deleicous", making the sentence "apples are delicious". This very very simply how A.I like chatgpt work. In practice it is much more complicated, using much more harder to explain mathematics that gives every word a probablity to be chosen based off the text already produced, all this after being trained on large amounts of data.
 
-![Diagram of how an A.I generates text](https://miro.medium.com/v2/resize:fit:1400/0*vv8k1EwchSKpOVIJ.png)
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*vv8k1EwchSKpOVIJ.png" width="500px" align="center">
 
 ### South african mathematics
