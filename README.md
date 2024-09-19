@@ -12,6 +12,8 @@ my name is binyameen mohamedy, a student at UJ Academy in grade 11. I am interes
 ## my project
 My project is proves a Conjecture from 2003. It states that a certain recursive function, now called Rowland's function, always produces prime numbers or 1 as output. The way this function was discovered was through a summer school hosted by **Stephen Wolfram**. The summer school aimed to analyze complex behaviours arising from simple rules or definitions. One of the functions discovered was Rowlands function. It is a type of recursive function, which means it relies on the previous terms value to compute the next term. Recursive functions and in general recurssions are fundemental tools used everywhere from finance to Large Language Models by A.I.
 
+Eric Rowland provided a conditional proof of the conjecture, meaning his proof shows that the conjecture is true if a certain hypothesis is true. It was not known if this hypothesis is always true or not. His work helped push this topic into the eyes of other mathematicians, which is why the function is named after him. He later made a [youtube video](https://www.youtube.com/watch?v=OpaKpzMFOpg) explaining his work, its in a graphical style that math youtuber 3b1b popularised. I encourage you to check it out.
+
 ## What did i do?
 Now, Rowlands function, denoted as b(n), is a recursive function meaning its value at any point depends on the previous term. Examples of recursive functions would be the following, f(n)= f(n-1)*2. You get the sequence, 2, 4, 8, 16, 32, 64. The function multiplies the previous term by 2. Note how u need to start with some number f(1) first, in the example f(1) = 2 gave u the sequence of powers of 2. but if f(1) = 5, the sequence would become, 5, 10,20,40,80,160.
 
