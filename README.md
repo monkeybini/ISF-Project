@@ -60,34 +60,26 @@
 ```
 
 
-> ## God may not play dice with the universe, but something strange is going on with the prime numbers
+> # God may not play dice with the universe, but something strange is going on with the prime numbers
 > 
-> #Carl Pomerance ~ Paul Erdos
+> ### Carl Pomerance ~ Paul Erdos
 
 
+# About Me
+My name is Binyameen Mohamedy, a student at UJ Academy in grade 11. I am interested in Mathematics, Computer Science, designing things etc. 
 
-
-# about me
-My name is Binyameen Mohamedy, a student at UJ Academy in grade 11. I am interested in Mathematics, Computer Science and Graphic design. 
-
-I made this page for ISF for 2 reasons. First is that i'm a nervous speaker IRL, as all science lovers are. Second is to reach a larger audience for my project. I realised during regionals that it's difficult for people to see projects in crowded areas and that it would be better if they could get a overview of projects from their phones and decide themselves which one to visit and learn more about. 
+I made this page for ISF so that my project can reach are a larger audience. My project is on pure mathematics, which makes it hard to explain without some prerequisites. This webpage makes it easier however due to a few reasons. I can be more informal and explain things in more intuitive ways. It is readily available to anyone who scans the QR code, leading to more people learning about this project who normally wouldn't.
 
 Anyway, my main interest is in Number Theory, specifically the theory of prime numbers which studies various aspects of prime numbers and holds a central place in mathematics. In our modern day, prime numbers have found a key application in cryptography and digital encryption systems.
 
-
-
-
-
 ## my project
-My project proves a Conjecture from 2003. It states that a certain recursive function, now called Rowland's function, always produces prime numbers or 1 as output. The way this function was discovered was through a summer school hosted by **Stephen Wolfram**. The summer school aimed to analyze complex behaviours arising from simple rules or definitions. One of the functions discovered was Rowlands function. It is a type of recursive function, which means it relies on the previous terms value to compute the next term. Recursive functions and in general recurssions are fundemental tools used everywhere from finance to Large Language Models by A.I.
+My project proves a Conjecture from 2003. It states that a certain recursive function, now called Rowland's function, always produces prime numbers or 1 as output. The way this function was discovered was through a summer school hosted by **Stephen Wolfram**. The summer school aimed to analyze complex behaviours arising from simple rules or definitions. One of the functions discovered was Rowlands function. It is a type of recursive function, which means it relies on the previous terms value to compute the next term. Recursive functions and in general recursissions are fundemental tools used everywhere from finance to Large Language Models by A.I.
 
 Eric Rowland provided a conditional proof of the conjecture, meaning his proof shows that the conjecture is true if a certain hypothesis is true. It was not known if this hypothesis is always true or not. His work helped push this topic into the eyes of other mathematicians, which is why the function is named after him. 
 
 He later made a [youtube video](https://www.youtube.com/watch?v=OpaKpzMFOpg) explaining his work, how he proved his result, how the actual proof works, why its interesting etc. It's in a graphical style that math youtuber 3B1B popularised. I encourage you to check it out if you want to learn more but not read so much.
 
-
-
-<img src="[https://miro.medium.com/v2/resize:fit:1400](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DOpaKpzMFOpg&psig=AOvVaw1xIkKeGeBEdXO7MJVLzHHg&ust=1727185620621000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiFuPyZ2YgDFQAAAAAdAAAAABAE)" width="450px" align="center">
+<img src="https://i.ytimg.com/vi/OpaKpzMFOpg/maxresdefault.jpg" width="450px" align="center">
 
 ## What did i do?
 Now, Rowlands function, denoted as b(n), is a recursive function meaning its value at any point depends on the previous term. Examples of a simple recursive function would be, f(n)= f(n-1)*2. You get the sequence, 2, 4, 8, 16, 32, 64. The function multiplies the previous term by 2. Note how u need to start with some number f(1) first. This is the initial condition for the function. In the example f(1) = 2 gave u the sequence of powers of 2. but if f(1) = 5, the sequence would become, 5, 10,20,40,80,160.
