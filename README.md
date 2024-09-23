@@ -85,6 +85,10 @@ Eric Rowland provided a conditional proof of the conjecture, meaning his proof s
 
 He later made a [youtube video](https://www.youtube.com/watch?v=OpaKpzMFOpg) explaining his work, how he proved his result, how the actual proof works, why its interesting etc. It's in a graphical style that math youtuber 3B1B popularised. I encourage you to check it out if you want to learn more but not read so much.
 
+
+
+<img src="[https://miro.medium.com/v2/resize:fit:1400](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DOpaKpzMFOpg&psig=AOvVaw1xIkKeGeBEdXO7MJVLzHHg&ust=1727185620621000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiFuPyZ2YgDFQAAAAAdAAAAABAE)" width="450px" align="center">
+
 ## What did i do?
 Now, Rowlands function, denoted as b(n), is a recursive function meaning its value at any point depends on the previous term. Examples of a simple recursive function would be, f(n)= f(n-1)*2. You get the sequence, 2, 4, 8, 16, 32, 64. The function multiplies the previous term by 2. Note how u need to start with some number f(1) first. This is the initial condition for the function. In the example f(1) = 2 gave u the sequence of powers of 2. but if f(1) = 5, the sequence would become, 5, 10,20,40,80,160.
 
