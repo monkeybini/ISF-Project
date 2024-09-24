@@ -89,13 +89,21 @@ Years after him, a group of 3 authors, studied a specific case of Rowlands funct
 
 <img src="https://i.ytimg.com/vi/OpaKpzMFOpg/maxresdefault.jpg" width="450px" align="center">
 
-Now here comes me. I studied the function as is, and managed to conditionally, 
+Now here comes me. I studied the function as is, and managed to show a few things conditionally unfortunately as well. I ran out of time to prove 2 prepositions for my proof but i hope to do do before the end of the year and submit my work to a journal.
 
+I have a draft of my research paper I'll eventual submit for publication, come at ISF if you'd like to read through it.
+
+Anway my proof assumes 2 hypothesis, one on estimating a certain sum and the other on a upper and lower bound for rowlands sequence. Either way, through this i prove that 1) Rowlands function generates prime numbers or 1,and 2) Rowlands function generates infinitely many distinct primes.
+
+In fact by proving 2) i found a different and new proof of a theorem by the 3 researchers i mentioned. In fact my proof is simpler and shorter than theirs but its not as flexible, you can't get as wide array of results as they did. 
+I also found a quicker proof a proposition from Rowlands original paper.
+Beyond that, numerically i discovered a new identity on the limit superior and limit inferior of the function. 
+
+
+## what are recursive functions?
 Now, Rowlands function, denoted as b(n), is a recursive function meaning its value at any point depends on the previous term. Examples of a simple recursive function would be, f(n)= f(n-1)*2. You get the sequence, 2, 4, 8, 16, 32, 64. The function multiplies the previous term by 2. Note how u need to start with some number f(1) first. This is the initial condition for the function. In the example f(1) = 2 gave u the sequence of powers of 2. but if f(1) = 5, the sequence would become, 5, 10,20,40,80,160.
 
 One of my results on rowlands function is finding a criteria on its initial condition which decides the types of prime numbers it produces.
-## Project history
-My project basically aims to prove a conjecture from 2003. It states that a certain recursive function, now called Rowland's function, always produces prime numbers or 1 as output. 
 
 
 ## How did i do it?
@@ -107,6 +115,8 @@ The point was to learn how to think about math problems. I did this for a while,
 
 
 ## significance?
+I managed to find new, shorter and simpler proofs of various Theorems and propositions. 
+
 Beyond furthering our current understanding of Rowlands function and prime numbers, this project also furthers South African mathematics. I encourage young learners to not think of mathematics as a school subject as i did in grade 8 but to explore it through the internet on your own. The internet can teach you so much if you use it wisely. Mathematics is what helps us understand the theory behind the world, such as how gravity works or how light travels. It quantifies intuitive ideas into logic which we can apply in other STEM fields. I think beyond that, mathematics is just fun.
 
 ### Foundations of A.I
