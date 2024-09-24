@@ -89,11 +89,13 @@ Years after him, a group of 3 authors, studied a specific case of Rowlands funct
 
 <img src="https://i.ytimg.com/vi/OpaKpzMFOpg/maxresdefault.jpg" width="450px" align="center">
 
+<img src="file:///C:/Users/binya/Downloads/Rowland%20conditional%20proof.png" width="500" align="center">
+
 Now here comes me. I studied the function as is, and managed to show a few things conditionally unfortunately as well. I ran out of time to prove 2 prepositions for my proof but i hope to do do before the end of the year and submit my work to a journal.
 
 I have a draft of my research paper I'll eventual submit for publication, come at ISF if you'd like to read through it.
 
-Anway my proof assumes 2 hypothesis, one on estimating a certain sum and the other on a upper and lower bound for rowlands sequence. Either way, through this i prove that 1) Rowlands function generates prime numbers or 1,and 2) Rowlands function generates infinitely many distinct primes.
+Anyway my proof assumes 2 hypothesis, one on estimating a certain sum and the other on a upper and lower bound for rowlands sequence. Either way, through this i prove that 1) Rowlands function generates prime numbers or 1,and 2) Rowlands function generates infinitely many distinct primes.
 
 In fact by proving 2) i found a different and new proof of a theorem by the 3 researchers i mentioned. In fact my proof is simpler and shorter than theirs but its not as flexible, you can't get as wide array of results as they did. 
 I also found a quicker proof a proposition from Rowlands original paper.
