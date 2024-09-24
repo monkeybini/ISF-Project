@@ -72,32 +72,34 @@ I made this page for ISF so that my project can reach a larger audience. My proj
 
 Anyway, my main interest is in Number Theory, specifically the theory of prime numbers which studies various aspects of prime numbers and holds a central place in mathematics. In our modern day, prime numbers have found a key application in cryptography and digital encryption systems.
 
-## my project
+## My Project
+
+My project aims to prove that a certain function, b(n), always produces prime or 1 values. 
+
 ## What did i do?
 So what did i accomplish??
 
 Well first let me give you a timeline to show you what i worked off of.
 
-My project aims to prove that a certain function, b(n), always produces prime or 1 values. 
+![](https://github.com/monkeybini/ISF-Project/blob/main/Timeline%20of%20events.png)
 
-The way this function was discovered was through a summer school hosted by **Stephen Wolfram**. The summer school aimed to analyze complex behaviours arising from simple rules or definitions. One of the functions discovered was Rowlands function, b(n), the focus of my project. It is a type of recursive function, which means it relies on the previous terms value to compute the next term. Recursive functions and in general recursissions are fundemental tools used everywhere from finance to Large Language Models by A.I. 
+1. The way this function was discovered was through a summer school hosted by **Stephen Wolfram**. The summer school aimed to analyze complex behaviours arising from simple rules or definitions. One of the functions discovered was Rowlands function, b(n), the focus of my project. It is a type of recursive function, which means it relies on the previous terms value to compute the next term. Recursive functions and in general recursissions are fundemental tools used everywhere from finance to Large Language Models by A.I. 
 
-Anyway, in 2008, Eric Rowland provided a conditional proof of the conjecture, meaning his proof shows that the conjecture is true if a certain hypothesis is true. It was not known if this hypothesis is always true or not. His work helped push this topic into the eyes of other mathematicians, which is why the function is named after him. 
+2. Anyway, in 2008, Eric Rowland provided a conditional proof of the conjecture, meaning his proof shows that the conjecture is true if a certain hypothesis is true. It was not known if this hypothesis is always true or not. His work helped push this topic into the eyes of other mathematicians, which is why the function is named after him. 
 He later made a [youtube video](https://www.youtube.com/watch?v=OpaKpzMFOpg) explaining his work, how he proved his result, how the actual proof works, why its interesting etc. It's in a graphical style that math youtuber 3B1B popularised. I encourage you to check it out if you want to learn more but not read so much.
 
-Years after him, a group of 3 authors, studied a specific case of Rowlands function. When the initial condition is h=1. They were able to prove many things, through a very clever idea. Rowlands function is difficult to evaluate to they constructed a 'intermediate' function instead which related to Rowlands. Anyway they proved many things, but it was all conditional like Rowlands original work.
+<img src="https://i.ytimg.com/vi/OpaKpzMFOpg/maxresdefault.jpg" width="400px" align="center">
 
-<img src="https://i.ytimg.com/vi/OpaKpzMFOpg/maxresdefault.jpg" width="450px" align="center">
+3. Years after him, a group of 3 authors, Fernando Chamizo, Dulcinea Raboso, Serafín Ruiz-Cabello, (CRR for short), studied a specific case of Rowlands function. When the initial condition is h=1. They were able to prove many things, through a very clever idea. Rowlands function is difficult to evaluate to they constructed a 'intermediate' function instead which related to Rowlands. Anyway they proved many things, but it was all conditional like Rowlands original work.
 
-<img src="file:///C:/Users/binya/Downloads/Rowland%20conditional%20proof.png" width="500" align="center">
+4. Now here comes me. I studied the function as is, and managed to show a few things conditionally unfortunately as well. I ran out of time to prove 2 propositions for my proof but i hope to do so before the end of the year and submit my work to a journal.
+ - I have a draft of my research paper I'll eventual submit for publication, come at ISF if you'd like to read through it.
 
-Now here comes me. I studied the function as is, and managed to show a few things conditionally unfortunately as well. I ran out of time to prove 2 prepositions for my proof but i hope to do do before the end of the year and submit my work to a journal.
+Anyway my proof assumes 2 hypothesis, one on estimating a certain sum and the other on a upper and lower bound for rowlands sequence. Either way, through this I prove that:
+1. Rowlands function generates prime numbers or 1
+2. Rowlands function generates infinitely many distinct primes.
 
-I have a draft of my research paper I'll eventual submit for publication, come at ISF if you'd like to read through it.
-
-Anyway my proof assumes 2 hypothesis, one on estimating a certain sum and the other on a upper and lower bound for rowlands sequence. Either way, through this i prove that 1) Rowlands function generates prime numbers or 1,and 2) Rowlands function generates infinitely many distinct primes.
-
-In fact by proving 2) i found a different and new proof of a theorem by the 3 researchers i mentioned. In fact my proof is simpler and shorter than theirs but its not as flexible, you can't get as wide array of results as they did. 
+In fact by proving 2) I found a **different** and **new proof** of a theorem by the 3 researchers i mentioned. In fact my proof is simpler and shorter than theirs but its not as flexible, you can't get as wide array of results as they did. 
 I also found a quicker proof a proposition from Rowlands original paper.
 Beyond that, numerically i discovered a new identity on the limit superior and limit inferior of the function. 
 
